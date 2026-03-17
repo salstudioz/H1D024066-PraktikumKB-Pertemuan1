@@ -1,6 +1,5 @@
 
 #Tugas Praktikum Kecerdasan Buatan - Pertemuan 1
-#Tema: One Piece
 
 import random
 import time
